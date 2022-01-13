@@ -1,1 +1,2 @@
-# Giz-git
+# eqtidar-git
+
